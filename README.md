@@ -1,7 +1,7 @@
-## url-shortening
-# Short the long url & redirect to original url.
+# url-shortening
+## Short the long url & redirect to original url.
 
-# Tools used :- NodeJS, MongoDB, Express
+## Tools used :- NodeJS, MongoDB, Express
 
 
 ## Cloning and Running the Application in local
