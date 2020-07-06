@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.flipkart.com/canon-eos-3000d-dslr-camera-single-kit-18-55-lens-16-gb-memory-card-carry-case/p/itmf3dhjyznuhayu?pid=CAMF3DHJURPEMNRN&lid=LSTCAMF3DHJURPEMNRNEB3BV2&marketplace=FLIPKART&srno=b_1_1&otracker=hp_omu_Top%2BDeals%2Bon%2BCameras_2_16.dealCard.OMU_Top%2BDeals%2Bon%2BCameras_OGEG3LL13OEA_8&otracker1=hp_omu_WHITELISTED_neo%2Fmerchandising_Top%2BDeals%2Bon%2BCameras_NA_dealCard_cc_2_NA_view-all_8&fm=neo%2Fmerchandising&iid=b68b4d42-58d9-4a32-8290-5c090297ad06.CAMF3DHJURPEMNRN.SEARCH&ppt=browse&ppn=browse&ssid=lz2gkl4er40000001593950239832"
+}
